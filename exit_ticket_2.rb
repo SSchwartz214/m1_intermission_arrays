@@ -82,4 +82,4 @@ hedgies.concat(new_hedgies)
 hedgies.each do |hedgie|
   puts hedgie
 end
-# iterates through the away and returns every item in the array as a separate string.
+# iterates through the array and returns every item in the array as a separate string.
